@@ -1,4 +1,4 @@
-VID:DID is 0722:0502
+VID:DID is 07ee:0502
 
 All commands are done via control packets to EP0 using reserved type requests
 
